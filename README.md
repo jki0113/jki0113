@@ -1,8 +1,9 @@
+<div align="center">
 <details>
-<summary>About Me</summary>
-여기에 소개
+<summary>About Me (접혔을 때 화살표 옆에 뜨는 텍스트)</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
 </details>
-</center>
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jki0113&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
